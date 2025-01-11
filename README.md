@@ -33,3 +33,21 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/zishan8583/callincity-web-app.git
+
+2. **Navigate to the project folder:**
+
+   ```bash
+   cd call-in-city
+   
+3. Install the dependencies:
+
+   ```bash
+   npm install
+
+4. Start the development server:
+
+   ```bash
+   npm start
+
+This will start the React development server, and you can access the app at 
+http://localhost:3000.
