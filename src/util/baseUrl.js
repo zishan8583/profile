@@ -1,1 +1,0 @@
-export default baseUrl = 'https://callincity.com/Call_InCity/';
