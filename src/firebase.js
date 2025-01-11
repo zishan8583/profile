@@ -9,13 +9,13 @@ import {getFirestore} from "firebase/firestore"
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBaTxSsse7P9mkV8MiGFSibp5luhBa9vto",
-  authDomain: "calllincity.firebaseapp.com",
-  projectId: "calllincity",
-  storageBucket: "calllincity.appspot.com",
-  messagingSenderId: "66956471988",
-  appId: "1:66956471988:web:9ee6b83533a8ef1b8b31e1",
-  measurementId: "G-T0RBNHE91R"
+  apiKey: "api key ",
+  authDomain: "calcity.fireseapp.om",
+  projectId: "calcity",
+  storageBucket: "caly.appot.com",
+  messagingSenderId: "66956471555555",
+  appId: "1:6633a8ef1b8b31e1",
+  measurementId: "G-T0R91R"
 };
 
 
