@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66956471988",
+    "project_id": "calllincity",
+    "storage_bucket": "calllincity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66956471988:android:dc8f0808aa39210d8b31e1",
+        "android_client_info": {
+          "package_name": "com.callincity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66956471988-7c0nh7e45v1pkhvkl9oioj9t926737gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2UHy03bFgyGtCtc37U-Cm4aPOGu36ABs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66956471988-7c0nh7e45v1pkhvkl9oioj9t926737gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
