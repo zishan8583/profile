@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,500,700);
+
+
+  .card {
+    
+    width: 100%;
+    background: white;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    transition: all 0.3s;
+    padding: 10px 5px !important;
+    
+    &:hover {
+      
+      box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    
+    }
+    
+    
+      
+      .sampleImg { 
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: contain;
+        max-height: 300px; 
+      }
+      
+    
+    
+    .description {
+      
+       padding: 5px;
+       border-left: 2px solid #efefef;
+       
+       h1 {
+         color: #515151;
+         font-weight: 300;
+         padding-top: 15px;
+         margin: 0;
+         font-size: 30px;
+         font-weight: 300;
+       }
+     
+       h2 {
+        color: #062245;
+        margin: 0;
+        text-transform: uppercase;
+        font-weight: 500;
+       }
+      
+       h4 { 
+         margin: 0;
+         color: #727272;
+         text-transform: uppercase;
+         font-weight: 500;
+         font-size: 12px
+       }
+      
+       p { 
+         font-size: 12px; 
+         line-height: 20px;
+         color: #727272;
+         padding: 20px 0;
+         margin: 0;
+      }
+      
+       button {
+
+         outline: 0;
+         border: 0;
+         background: rgb(255, 255, 255);
+         border: 2px solid #d9d9d9;
+         padding: 8px 0px;
+         border-radius: 3px;
+         margin-bottom: 20px;
+         color: #515151;
+         text-transform: uppercase;
+         width: 125px;
+         font-family: inherit;
+         margin-right: 5px;
+         transition: all 0.3s ease;
+         font-weight: 500;
+         
+         &:hover {
+           
+           // background: darken(white, 2%);
+           background:#01328d;
+           color: #ffffff;
+           cursor: pointer;
+           border-radius: 10px;
+           
+         }
+
+       }
+
+       li::marker {
+        color: rgb(104, 205, 104);
+        font-size: 1.2em;
+    }
+      
+    }
+    
+  }
+  

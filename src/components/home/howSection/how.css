@@ -1,0 +1,43 @@
+
+.howSectionContainer{
+    padding: 60px 30px;
+    align-items: center;
+    text-align: center;
+    flex: 1;
+}
+.howTitle{
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px auto 10px;
+    color: #112D4E;
+    text-transform: uppercase;
+    
+}
+.subName{
+
+    font-size: 14px;
+    color: gray;
+  
+}
+.list{
+ 
+    display: flex;
+    flex-direction: column;
+}
+
+.boxAnimate{
+    
+        background-color: #3F72AF;
+        padding: 5px;
+        width: 100px;
+        height: 100px;
+        border-radius: 100px;
+        overflow: hidden;
+        align-self: center;
+        transition: background-color 0.1s ease-out 50ms
+ 
+}
+
+.boxAnimate:hover{
+    background-color: #112D4E;
+}

@@ -1,0 +1,22 @@
+
+.navbar-brand{
+    object-fit: contain;
+    max-width: 150px;
+    width: 100%;
+}
+
+.headerContainer{
+    padding: 0px 10px;
+    background-color: rgb(255, 255, 255);
+    -webkit-box-shadow: 0px 7px 4px -5px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 7px 4px -5px rgba(0,0,0,0.2);
+    box-shadow: 0px 7px 4px -5px rgba(0,0,0,0.2);
+}
+
+.button{
+    padding: 2px;
+    border-radius: 15px;
+    background-color: orange;
+}
+
+

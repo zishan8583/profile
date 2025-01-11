@@ -1,0 +1,45 @@
+.serviceTypeContainer {
+    padding: 50px 0;
+    background-color: #112D4E;
+}
+
+.serviceTitle, .subServiceTitle{
+    color: white;
+}
+
+.serviceImg {
+    width: 100%;
+    object-fit: cover;
+    min-height: 250px;
+    border-radius: 15px;
+}
+
+.fa-star{
+    color: white;
+}
+
+
+
+.checked {
+    color: orange;
+}
+
+.d-flex {
+    gap: 5px;
+}
+
+.bottomContainer {
+    margin: 20px auto;
+}
+
+
+@media screen and (max-width: 990px) {
+    .infoSection{
+        text-align: center;
+        /* background-color: white; */
+        margin-top: 20px !important;
+    }
+    .bottomContainer{
+        justify-content: center;
+    }
+  }

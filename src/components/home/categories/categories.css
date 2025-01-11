@@ -1,0 +1,45 @@
+.categoriesContainer{
+    padding: 30px 30px;
+    align-items: center;
+    text-align: center;
+    flex: 1;
+}
+.lightTitle{
+    font-weight: bold;
+    font-size: 25px;
+    margin: 60px auto;
+    color: #c95001;
+    text-transform: uppercase;
+}
+.categoriesList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+}
+.category{
+    display: flex;
+    flex-direction: column;
+    margin: 25px 40px;
+    align-items: center;
+
+}
+.imageContainer{
+    background-color: rgb(208, 255, 255);
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    overflow: hidden;
+    align-self: center;
+}
+.img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+
+}
+.name{
+    text-align: center;
+    font-weight: bold;
+}
